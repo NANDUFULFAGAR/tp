@@ -41,5 +41,6 @@
 	  	"TOTALEXPNSES"			:		 "एकुण खर्च",
 	  	"MTIME"				:		 "वेळ",
 	  	"MFARMERCOPY"			:		 "शेतकरी प्रत",
-	  	"MPURCHASERCOPY"		:		 "खरेदीदार प्रत"
+	  	"MPURCHASERCOPY"		:		 "खरेदीदार प्रत",
+		"PURCHASEMOISTURE"		:		 "आद्रता"
   }
