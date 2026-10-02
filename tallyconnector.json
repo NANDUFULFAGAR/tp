@@ -1,8 +1,9 @@
 {
-  serials:[
+  "serials": [
     {
-      name:"Jeet Solutions"
-      number:"722507571",
-      expiry_date:"03-10-2026"
+      "name": "Jeet Solutions",
+      "number": "722507571",
+      "expiry_date": "03-10-2026"
+    }
   ]
 }
